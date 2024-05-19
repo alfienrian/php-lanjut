@@ -1,0 +1,3 @@
+# jangan include semua file pada folder gambar
+*
+!.gitignore
